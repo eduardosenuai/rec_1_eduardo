@@ -1,0 +1,9 @@
+git init -> código usado inicializar o git
+git commit -> codigo usado para commitar o arquivo
+git status -> código usado para ver o satus de arquivos
+git push -> código usado para enviar
+git add -> código usado para adicionar os arquivos dentro do projeto
+git branch -> listar, excluir ou criar um git branch em um repo 
+git remote add -> faz o link do projeto com a nuvem
+git cd -> entra em uma pasta
+git cd .. -> sai da pasta 
